@@ -38,9 +38,9 @@ tool1.tooltipster({
     <div class="tool-txt">Essa, inclusive, é a forma pela qual se dá a sua remuneração, pois a venda ao Poder Público é direta, sem licitação.​</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -51,9 +51,9 @@ tool1.tooltipster({
     <div class="tool-txt">Em todas as PDPs realizadas até hoje, houve reiterados  fornecimentos de medicamento pelo parceiro privado, a um custo de mais de 16 bilhões de reais (fls. 5430 dos autos originários).</div>
     <div class="tool-txt">Caem por terra, assim, as alegações da mAbxience de que a PDP “não implica em compra e venda de produto” e que “não se está lidando com o produto, mas sim apenas com dados e informações relacionadas à sua fabricação” (fls. 8).​</div>`,
     multiple: true,
-    side: 'bottom',
+    side: 'right',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -67,9 +67,9 @@ tool2.tooltipster({
 <div class="tool-txt">O voto vencedor do Des. Grava Brazil, todavia, resumiu o ilícito de infração de patente somente à venda, criando uma relação de acessoriedade entre as condutas que não foi prevista pelo legislador.​</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -81,9 +81,9 @@ tool2.tooltipster({
 <div class="tool-txt">O Exmo. Des. Sergio Shimura, em contrapartida, reconheceu as diferentes condutas que configuram infração de patente, verbis: “há indicativo de que a conduta da ré agravada se subsume ao disposto nos arts. 42, caput, e 184, I, da Lei nº 9.279/1996, marcadamente à tipificação de ‘colocar à venda’ ou ‘oferecer à venda’ produto objeto da patente”.​</div>
     `,
     multiple: true,
-    side: 'bottom',
+    side: 'right',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -95,9 +95,9 @@ tool3.tooltipster({
     <div class="tool-txt">Art. 43, VII, LPI: “Art. 43. O disposto no artigo anterior não se aplica: VII - aos atos praticados por terceiros não autorizados, relacionados à invenção protegida por patente, destinados exclusivamente à produção de informações, dados e resultados de testes, visando à obtenção do registro de comercialização, no Brasil ou em outro país, para a exploração e comercialização do produto objeto da patente, após a expiração dos prazos estipulados no art. 40”.</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -109,9 +109,9 @@ tool3.tooltipster({
 <div class="tool-txt">​Ainda que, ad argumentandum, houvesse pedido de registro sanitário, os atos praticados no curso da PDP certamente não são “destinados exclusivamente à produção de informações, dados e resultados de testes”.</div>
     `,
     multiple: true,
-    side: 'bottom',
+    side: 'right',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -126,9 +126,9 @@ tool4.tooltipster({
 <div class="tool-txt">Prof. Dr. John Thomas (Georgetown University –  Estados Unidos): “a isenção Bolar [...] não exime uma ‘oferta à venda’ como contida em uma proposta de PDP nos termos da Portaria 2.531 da infração.” (fls.​ 4248 do processo originário)​</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -141,9 +141,9 @@ tool4.tooltipster({
 <div class="tool-txt">Prof. Dr. Peter Menell (University of California Berkeley – Estados Unidos): “a oferta por parte de terceiros de vender grande quantidade de medicamentos protegidos por patente [...] sem o consentimento do titular da patente não se enquadra na exceção limitada criada pela Emenda Bolar.” (fls. 4351 dos autos originários)</div>
     `,
     multiple: true,
-    side: 'bottom',
+    side: 'right',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -156,9 +156,9 @@ tool5.tooltipster({
 <div class="tool-txt">O Órgão de Solução de Controvérsias da OMC já reconheceu que a exceção do “stockpilling” (estoque em grandes quantidades) de produtos infratores antes do fim da patente, com vistas à comercialização após a expiração do título, viola o art. 28(1) do Acordo TRIPS e não está coberto pela Exceção Bolar. O que dirá da oferta à venda de produto infrator, destinada à venda ainda na vigência da patente, como ocorre no presente caso? (fls. 54442 dos autos originários).</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -169,9 +169,9 @@ tool5.tooltipster({
     <div class="tool-txt">O Exmo. Des. Sergio Shimura, defendendo posição contrária, afirmou que “a situação não se limita a simples testes em desenvolvimento com medicamentos” e que “os atos praticados pela ré em razão da PDP não se encaixam com perfeição na chamada “exceção bolar”, prevista no at. 43, VII, LPI”, porque os atos praticados revelam “o principal propósito, qual seja, finalidade marcadamente econômica e lucrativa”.</div>
     `,
     multiple: true,
-    side: 'bottom',
+    side: 'right',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -187,9 +187,9 @@ tool6.tooltipster({
 <div class="tool-txt">Liminar deferida: “DEFIRO, liminarmente, inaudita altera parte, a tutela provisória de URGÊNCIA, nos termos como requerida às fls. 33/34, item (i), letras a e b” (fls. 5064 dos autos originários).</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -200,9 +200,9 @@ tool6.tooltipster({
     <div class="tooltip-txt">A regulação da PDP não é falha, tanto que prevê a “observância da legislação de propriedade intelectual em vigor” (art. 22, VIII, do Anexo XCV, da Portaria de Consolidação nº 5/2017).</div><div class="tooltip-txt">Ocorre que a maioria das PDPs não tem como objeto produto patenteado. Quando tiver, é evidente que a regulação das PDPs deve ser analisada em conjunto com a Lei de Propriedade Industrial (Lei nº 9279/96) para evitar que terceiros não autorizados se aproveitem do produto patenteado e firmem parceria em evidente infração de patente.</div><div class="tooltip-txt">Assim, o ilícito está justamente na forma como a ré – terceiro não autorizado – será remunerada pela transferência de tecnologia: por meio venda direta de medicamento coberto por patente até 2026.</div>
     `,
     multiple: true,
-    side: 'bottom',
+    side: 'right',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -214,9 +214,9 @@ tool7.tooltipster({
     <div class="tool-txt">A documentação apresentada na proposta de PDP é, na verdade, extremamente relevante, já que nela consta o efetivo preço que será praticado na Fase III, garantido pelo Poder Público. E é incontroverso que a ré preencheu o modelo obrigatório de proposta. </div><div class="tool-txt">A partir da proposta, é possível comprovar não só a “oferta à venda” já realizada no âmbito da PDP, mas também a ameaça de outras condutas previstas como infração, que serão realizadas ainda na vigência da patente.</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -227,9 +227,9 @@ tool7.tooltipster({
     <div class="tool-txt">A proposta não serve para verificar a viabilidade da PDP, mas, sim, para fixar o preço pelo qual será fornecido o medicamento durante a Fase III, já embutido o valor da transferência de tecnologia.</div><div class="tool-txt">O próprio Ministro da Saúde reconhece que o governo GARANTE O PREÇO indicado na proposta, durante a pendência da PDP, verbis: “este modelo de contrato pode ser um erro porque drogas concorrentes surgem no mercado e preços caem durante as parcerias. Mas, <b>como há um compromisso, o governo segue adquirindo produtos no preço fixado pela PDP. ‘Essa modelagem de a gente GARANTIR O PREÇO...é complicado</b>’”, segundo matéria disponível em <a href="https://www.jota.info/tributos-e-empresas/saude/governo-estuda-produzir-medicamentos-que-a-industria-deixar-de-fabricar-01052019">https://www.jota.info/tributos-e-empresas/saude/governo-estuda-produzir-medicamentos-que-a-industria-deixar-de-fabricar-01052019.​</a></div>
     `,
     multiple: true,
-    side: 'bottom',
+    side: 'right',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -241,9 +241,9 @@ tool8.tooltipster({
     <div class="tool-txt">Repisa-se: a maioria das PDPs é para produto não patenteado. Porém, quando seu objeto for produto protegido por patente, a sua regulação deve estar em consonância com a Lei de Propriedade Industrial. A remuneração da entidade previdade não pode ocorrer pelo fornecimento de medicamento patenteado, caso contrário haverá flagrante violação aos direitos do titular, tal como é o caso. </div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -256,9 +256,9 @@ tool9.tooltipster({
 <div class="tool-txt">A Fase III é justamente a próxima fase da PDP, com “efetiva celebração do contrato de aquisição do produto, situação que revela a ameaça e o risco de grave dano ao direito” da Genenetech, conforme reconhecido pelo Des. Sergio Shimura.</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -269,9 +269,9 @@ tool9.tooltipster({
     <div class="tool-txt">Nenhuma PDP demorou mais de 7 anos para se progredir da Fase II à Fase III. Em média, levam apenas três anos.</div><div class="tool-txt">A patente da Genentech, por sua vez, apenas expira em 22/11/2026. É evidente que o fornecimento do produto infrator ocorrerá na vigência da patente.</div><div class="tool-txt">Aliás, a mAbxience já obteve registro sanitário para comercialização do seu biossimilar na Argentina, o que reforça sua pretensão de comercializá-lo também no Brasil.​ Disponível em: <a href="https://www.mabxience.com/company-history/">https://www.mabxience.com/company-history/</a></div>
     `,
     multiple: true,
-    side: 'bottom',
+    side: 'right',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -285,9 +285,9 @@ tool10.tooltipster({
 
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -300,9 +300,9 @@ tool11.tooltipster({
 <div class="tool-txt">Ao afirmar que não seria infração a fabricação de medicamento patenteado se não houver venda na vigência da patente, o Des. Grava Brazil, data vênia, inova e interpreta equivocamente o direito garantido ao titular da patente de “impedir terceiro, sem o seu consentimento” de explorar a patente (art. 42, da LPI). O direito conferido pela patente não é o direito de exclusivamente  comercializar o produto patenteado, mas o de impedir terceiros de usá-lo sem consentimento.</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -316,9 +316,9 @@ tool12.tooltipster({
     <div class="tool-txt">Além de causar prejuízos ao Erário, que GARANTE preços mais altos durante a PDP, a oferta à venda, per se, causa sérios danos ao titular da patente, reduzindo o retorno financeiro que se pode obter com a exclusividade da exploração da invenção, e o que explica o Prof. Armando Castelar da Universidade de Berkeley, verbis: “a oferta à venda já diminui a capacidade do titular da patente de fixar o preço de venda” (fls. 5551/5563 dos autos originários).</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -331,9 +331,9 @@ tool12.tooltipster({
 <div class="tool-txt">É cotidiana a oferta à venda de produtos que ainda não existem, tal como a de imóveis ainda na planta.</div>
     `,
     multiple: true,
-    side: 'bottom',
+    side: 'right',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -346,9 +346,9 @@ tool13.tooltipster({
     <div class="tool-txt">Novamente: a regulação das PDPs deve ser interpretada em conjunto com a Lei de Propriedade Industrial (Lei nº 9279/96) quando o objeto da parceria envolver produto patenteado. Ademais, a infração de patente não se resume à  venda.</div><div class="tool-txt">Conforme afirmado pelo Ministro da Saúde, a adesão da PDP vincula o Governo, que “segue adquirindo produtos no preço fixado pela PDP. ‘Essa modelagem de a gente GARANTIR O PREÇO...é complicado’”.</div><div class="tool-txt">Além de causar prejuízos ao Erário, que GARANTE preços mais altos durante a PDP, a oferta à venda, per se, causa sérios danos ao titular da patente, reduzindo o retorno financeiro que se pode obter com a exclusividade da exploração da invenção, e o que explica o Prof. Armando Castelar da Universidade de Berkeley, verbis: “a oferta à venda já diminui a capacidade do titular da patente de fixar o preço de venda” (fls. 5551/5563 dos autos originários).</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -360,9 +360,9 @@ tool13.tooltipster({
     <div class="tool-txt">Ainda, defende o Prof. José Vicente Mendonça que “o fato de ser oferta de produção futura não significa que o direito do detentor de patente dependeria da demonstração de que a oferta (presente ou futura) afetou seu planejamento; o ato em si é vedado pela LPI” (fls. 5566/5603 dos autos originários).</div><div class="tool-txt">É cotidiana a oferta à venda de produtos que ainda não existem, tal como a de imóveis ainda na planta.</div>
     `,
     multiple: true,
-    side: 'bottom',
+    side: 'right',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -374,9 +374,9 @@ tool14.tooltipster({
     <div class="tool-txt">O agravo de instrumento analisado pelo TJSP versava não só sobre a tutela de urgência, mas também sobre a exibição da proposta de PDP. O agravo da mAbxience não é análogo neste ponto, pois discute apenas a liminar deferida.</div><div class="tool-txt">Não se discute, no recurso, a “oferta à venda” praticada, mas sim a ameaça de novos atos de infração de patente durante sua vigência.</div><div class="tool-txt">Ao afirmar que não haveria ato de infração por “oferta à venda”, o Des. Grava Brazil, data vênia, se manifestou sobre questão ainda não apreciada pelo juízo de piso, em verdadeira supressão de instância.</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -387,9 +387,9 @@ tool14.tooltipster({
     <div class="tool-txt">No caso da mAbxience, em 1ª instância, a Genentech requereu a exibição da proposta de PDP, que é capaz de comprovar as duas causas de pedir (“oferta à venda” e ameaça de novos atos de infração). Todavia, o juízo a quo ainda não se manifestou sobre este ponto, pelo que não é objeto de recurso perante este Tribunal.</div><div class="tool-txt">O juízo de 1ª instância reconheceu a probabilidade do direito da Genentech, consubstanciado na ameaça de novos atos de infração e, nesse contexto, deferiu a liminar contra a mAbxience, verbis: “risco de agravamento da situação, ao chegar-se efetivamente à fase de venda [pelo parceiro privado] do produto patenteado” (fls. 5064 dos autos originários).</div><div class="tool-txt">​Se a ré afirma que não vai praticar atos de infração, ou melhor, que nem participa da PDP, é evidente que não há periculum in mora reverso na manutenção da liminar.</div>
     `,
     multiple: true,
-    side: 'bottom',
+    side: 'right',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -401,9 +401,9 @@ tool15.tooltipster({
     <div class="tool-txt">Todos esses fatos são incontroversos por não terem sido objeto de impugnação pela parte contrária, nos termos dos arts. 341 e 374, III, do CPC.</div><div class="tool-txt"><b>Confirmado pelo INPI:</b> “A presente patente protege dois anticorpos específicos, bevacizumabe e ranibizumabe, cujas sequências das regiões variáveis das cadeias leve e pesada (incluindo suas CDRs) encontram-se inteiramente reveladas (combinação de Seq ID nº 7 com Seq ID nº 8 para bevacizumabe e combinação de Seq ID nº 116 com Seq ID nº 115 para ranibizumabe)” (fls. 250/259 dos autos originários”.</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -414,9 +414,9 @@ tool15.tooltipster({
     <div class="tool-txt"><b>Confirmado pela ANVISA:</b> “[...] a proteção conferida, se concedida, recairia sobre quaisquer anticorpos contendo as tais porções variáveis, dentre os quais destacam-se o bevacizumabe, comercializado sob a marca Avastin®. [...] Como pode ser evidenciado a partir da comparação entre as sequências apresentada acima, o anticorpo F(ab)-12, requerido através da reivindicação 1, tem 100% de identidade em relação à porção variável do anticorpo bevacizumabe” (fls. 260/267 dos autos originários.).</div><div class="tool-txt">Confirmado, ainda, por doze especialistas técnicos brasileiros e estrangeiros: Andrew Martin (University College London), Michel Nussenzweig (Rockefeller University), Marcelo Brígido (UnB), Ricardo Giordano (USP), Deborah Schechtman (USP), Andre Vale (UFRJ), Lucio Cabral (UFRJ), Marcelo Cossenza (UFF), Margarida Mittelbach (Ex-Diretora de Patentes do INPI), Margareth Maia (Ex-Chefe da Divisão de Biotecnologia do INPI), Francisco Silva (Ex-Examinador do INPI), Ricardo Siqueira (Ex-Examinador do INPI).</div>
     `,
     multiple: true,
-    side: 'bottom',
+    side: 'right',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -428,9 +428,9 @@ tool16.tooltipster({
     <div class="tool-txt">​O Exmo. Des. Sérgio Shimura reconheceu estar consumada a conduta de oferta à venda, por ter a ré apresentado proposta de fornecimento de medicamento patenteado ainda na vigência da patente.</div><div class="tool-txt">Irrelevante, para esse fim, quando a venda irá ocorrer, pois a oferta à venda é conduta autônoma prevista nos arts. 42 e 184, I, da LPI. </div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -443,9 +443,9 @@ tool17.tooltipster({
     <div class="tool-txt">A proteção aos direitos de propriedade industrial está, de fato, prevista como garantia fundamental na Constituição Federal (art. 5º, XXIX, da CF).</div><div class="tool-txt">Corresponde, ainda, a obrigação assumida pelo Brasil  na esfera internacional para ter status de membro originário da OMC, ao ratificar o TRIPS/ADPIC (Acordo Sobre Aspectos dos Direitos de Propriedade Intelectual Relacionados ao Comércio).</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -456,9 +456,9 @@ tool17.tooltipster({
     <div class="tool-txt">O TRIPS prevê os direitos garantidos ao titular de patente em seu art. 28(1), verbis: “Uma patente conferirá a seu titular os seguintes direitos exclusivos: a) quando o objeto da patente for um produto, o de evitar que terceiros sem seu consentimento pratiquem os atos de produzir, usar, oferecer à venda, vender ou importar com esses propósitos aqueles bens” (tradução livre).</div><div class="tool-txt">Art. 28(1) do TRIPS: “A patent shall confer on its owner the following exclusive rights: (a) where the subject matter of a patent is a product, to prevent third parties not having the owner’s consent from the acts of: making, using, offering for sale, selling, or importing for these purposes that product”.</div>
     `,
     multiple: true,
-    side: 'bottom',
+    side: 'right',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -476,9 +476,9 @@ tool18.tooltipster({
     a) serão apresentadas propostas com os valores unitários anuais em termos nominais e a <b>capacidade de oferta anual do produto</b> para o período do projeto”.</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -493,9 +493,9 @@ tool19.tooltipster({
 
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -506,9 +506,9 @@ tool19.tooltipster({
     <div class="tool-txt">Não há qualquer garantia que, ao final, a instituição pública estará apta a fabricar o produto. Na PDP do tacrolimo, o Governo pagou ao parceiro privado mais de R$ 830 MILHÕES pela transferência de tecnologia e pelo fornecimento do  medicamento, sem resultado.</div><div class="tool-txt">Pela forma de remuneração das PDPs, é evidente que a mAbxience não visa ampliar o acesso da população a produtos estratégicos, proteger os interesses da Administração Pública ao buscar a economicidade, ou promover o desenvolvimento e a fabricação em território nacional (fls. 11). O interesse é evidentemente econômico, garantindo fornecimento exclusivo do seu biossimilar no âmbito da PDP.</div><div class="tool-txt">O intuito lucrativo é ainda mais evidente quando se leva em consideração que a mAbxience irá fornecer exclusivamente seu biossimilar ao longo de toda a PDP ao preço GARANTIDO pelo Governo, sendo que, após o fim da vigência da patente já haveria duas empresas (Genentech e Amgen BR) com registro sanitário capaz de apresentar propostas mais vantajosas e, obrigatoriamente, por meio de licitação.</div>
     `,
     multiple: true,
-    side: 'bottom',
+    side: 'right',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -521,9 +521,9 @@ tool20.tooltipster({
 
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -536,9 +536,9 @@ tool21.tooltipster({
 
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -550,9 +550,9 @@ tool22.tooltipster({
     <div class="tool-txt">A tutela provisória foi requerida apenas para impedir a concretização da ameaça de infração de patente pela realização das condutas previstas nos arts. 42 e 184, I, da LPI, não obstando o pedido e a concessão de registro sanitário.</div><div class="tool-txt">Em ação proposta contra a Amgen Brasil por infração da mesma patente, foi concedido registro sanitário mesmo após a concessão de tutela de urgência inibitória, o que evidencia que a liminar não obsta o art. 43, VII, LPI e, consequentemente, a obtenção do registro.</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -564,9 +564,9 @@ tool23.tooltipster({
     <div class="tool-txt">Mais uma vez, se a mAbxience alega que não irá infringir a patente, por que então luta de forma tão veemente contra o pedido de tutela de urgência que em nada lhe afeta? Por que então não peticionou pela procedência do pedido? Por que então não apresentou preliminar de legitimidade ativa?</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -578,9 +578,9 @@ tool24.tooltipster({
     <div class="tool-txt">Em que pese haver evidente interesse processual da Genentech, não se trata de objeto do recurso da mAbxience, pelo que não pode ser conhecido por este Tribunal, sob pena de supressão de instância.</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -592,9 +592,9 @@ tool25.tooltipster({
     <div class="tool-txt">Seguindo o entendimento do Des. Shimura, entendeu o Des. Azuma Nishi, no AI nº 2213533-81.2018.8.26.0000), os Juízos da 1ª e 2ª Varas Empresariais, que também concederam medidas inibitórias para cessar atos de infração de patente por outros réus (0210345-09.2018.8.19.0001  e 0207249-83.2018.8.19.0001), bem como V. Exa., que indeferiu o efeito suspensivo ao agravo da mAbxience e de agravo interposto contra mencionada decisão da 2ª VEmp (0061117-60.2018.8.19.0000).</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -608,9 +608,9 @@ tool26.tooltipster({
 
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -621,9 +621,9 @@ tool26.tooltipster({
     <div class="tool-txt">O art. 43, VII, da LPI, segundo seu texto expresso, não se aplica aos atos de exploração comercial do produto objeto de patente, tais como a oferta à venda e a venda, ainda que realizados no âmbito de PDP.</div>
     `,
     multiple: true,
-    side: 'bottom',
+    side: 'right',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -637,9 +637,9 @@ tool27.tooltipster({
 
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -650,9 +650,9 @@ tool27.tooltipster({
     <div class="tool-txt">O reconhecimento da infração não inviabiliza a PDP.</div>
     `,
     multiple: true,
-    side: 'bottom',
+    side: 'right',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -666,9 +666,9 @@ tool28.tooltipster({
 
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -680,9 +680,9 @@ tool28.tooltipster({
     <div class="tool-txt">A Genentech não pode ficar de braços cruzados esperando a concretização do dano a sua patente, isso é, não pode esperar para ver se a PDP irá de fato começar sua Fase III na vigência da patente, ignorando a sucessão de fatos narrados na inicial e a prova dos autos que indicam o contrário, para só então buscar a tutela jurisdicional.</div>
     `,
     multiple: true,
-    side: 'bottom',
+    side: 'right',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -695,9 +695,9 @@ tool29.tooltipster({
 
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -709,9 +709,9 @@ tool30.tooltipster({
     <div class="tool-txt">A ação não visa obstar a PDP, mas, sim, impedir que em seu curso haja violação a direitos patentários.​</div>
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -725,9 +725,9 @@ tool31.tooltipster({
 
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -738,9 +738,9 @@ tool31.tooltipster({
     <div class="tool-txt">A apreciação jurisdicional da ameaça a direito está expressamente garantida no art. 5º, XXXV, da CF e no art. 3º do CPC. </div>
     `,
     multiple: true,
-    side: 'bottom',
+    side: 'right',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -753,9 +753,9 @@ tool32.tooltipster({
 
     `,
     multiple: true,
-    side: 'top',
+    side: 'left',
     contentAsHTML: true,
-    maxWidth: 500,
+    maxWidth: 150,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
