@@ -40,7 +40,7 @@ tool1.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -53,7 +53,7 @@ tool1.tooltipster({
     multiple: true,
     side: 'right',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -69,7 +69,7 @@ tool2.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -83,7 +83,7 @@ tool2.tooltipster({
     multiple: true,
     side: 'right',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -97,7 +97,7 @@ tool3.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -111,7 +111,7 @@ tool3.tooltipster({
     multiple: true,
     side: 'right',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -128,7 +128,7 @@ tool4.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -143,7 +143,7 @@ tool4.tooltipster({
     multiple: true,
     side: 'right',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -158,7 +158,7 @@ tool5.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -171,7 +171,7 @@ tool5.tooltipster({
     multiple: true,
     side: 'right',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -189,7 +189,7 @@ tool6.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -197,12 +197,12 @@ tool6.tooltipster({
 
 tool6.tooltipster({
     content: `
-    <div class="tooltip-txt">A regulação da PDP não é falha, tanto que prevê a “observância da legislação de propriedade intelectual em vigor” (art. 22, VIII, do Anexo XCV, da Portaria de Consolidação nº 5/2017).</div><div class="tooltip-txt">Ocorre que a maioria das PDPs não tem como objeto produto patenteado. Quando tiver, é evidente que a regulação das PDPs deve ser analisada em conjunto com a Lei de Propriedade Industrial (Lei nº 9279/96) para evitar que terceiros não autorizados se aproveitem do produto patenteado e firmem parceria em evidente infração de patente.</div><div class="tooltip-txt">Assim, o ilícito está justamente na forma como a ré – terceiro não autorizado – será remunerada pela transferência de tecnologia: por meio venda direta de medicamento coberto por patente até 2026.</div>
+    <div class="tool-txt">A regulação da PDP não é falha, tanto que prevê a “observância da legislação de propriedade intelectual em vigor” (art. 22, VIII, do Anexo XCV, da Portaria de Consolidação nº 5/2017).</div><div class="tool-txt">Ocorre que a maioria das PDPs não tem como objeto produto patenteado. Quando tiver, é evidente que a regulação das PDPs deve ser analisada em conjunto com a Lei de Propriedade Industrial (Lei nº 9279/96) para evitar que terceiros não autorizados se aproveitem do produto patenteado e firmem parceria em evidente infração de patente.</div><div class="tool-txt">Assim, o ilícito está justamente na forma como a ré – terceiro não autorizado – será remunerada pela transferência de tecnologia: por meio venda direta de medicamento coberto por patente até 2026.</div>
     `,
     multiple: true,
     side: 'right',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -216,7 +216,7 @@ tool7.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -229,7 +229,7 @@ tool7.tooltipster({
     multiple: true,
     side: 'right',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -243,7 +243,7 @@ tool8.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -258,7 +258,7 @@ tool9.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -271,7 +271,7 @@ tool9.tooltipster({
     multiple: true,
     side: 'right',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -287,7 +287,7 @@ tool10.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -302,7 +302,7 @@ tool11.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -318,7 +318,7 @@ tool12.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -333,7 +333,7 @@ tool12.tooltipster({
     multiple: true,
     side: 'right',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -348,7 +348,7 @@ tool13.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -362,7 +362,7 @@ tool13.tooltipster({
     multiple: true,
     side: 'right',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -376,7 +376,7 @@ tool14.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -389,7 +389,7 @@ tool14.tooltipster({
     multiple: true,
     side: 'right',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -403,7 +403,7 @@ tool15.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -416,7 +416,7 @@ tool15.tooltipster({
     multiple: true,
     side: 'right',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -430,7 +430,7 @@ tool16.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -445,7 +445,7 @@ tool17.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -458,7 +458,7 @@ tool17.tooltipster({
     multiple: true,
     side: 'right',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -478,7 +478,7 @@ tool18.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -495,7 +495,7 @@ tool19.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -508,7 +508,7 @@ tool19.tooltipster({
     multiple: true,
     side: 'right',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -523,7 +523,7 @@ tool20.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -538,7 +538,7 @@ tool21.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -552,7 +552,7 @@ tool22.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -566,7 +566,7 @@ tool23.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -580,7 +580,7 @@ tool24.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -594,7 +594,7 @@ tool25.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -610,7 +610,7 @@ tool26.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -623,7 +623,7 @@ tool26.tooltipster({
     multiple: true,
     side: 'right',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -639,7 +639,7 @@ tool27.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -652,7 +652,7 @@ tool27.tooltipster({
     multiple: true,
     side: 'right',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -668,7 +668,7 @@ tool28.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -682,7 +682,7 @@ tool28.tooltipster({
     multiple: true,
     side: 'right',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -697,7 +697,7 @@ tool29.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -711,7 +711,7 @@ tool30.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -727,7 +727,7 @@ tool31.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
@@ -740,7 +740,7 @@ tool31.tooltipster({
     multiple: true,
     side: 'right',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
     trigger: 'click'
@@ -755,7 +755,7 @@ tool32.tooltipster({
     multiple: true,
     side: 'left',
     contentAsHTML: true,
-    maxWidth: 150,
+    maxWidth: 160,
     interactive: true,
     theme: 'tooltipster-borderless',
     trigger: 'click'
