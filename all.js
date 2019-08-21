@@ -130,7 +130,7 @@ tool4.tooltipster({
     contentAsHTML: true,
     maxWidth: 180,
     interactive: true,
-    theme: 'tooltipster-borderless',
+    theme: ['tooltipster-borderless', 'big-one'],
     trigger: 'click'
 }); 
 
@@ -145,7 +145,7 @@ tool4.tooltipster({
     contentAsHTML: true,
     maxWidth: 180,
     interactive: true,
-    theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
+    theme: ['tooltipster-borderless', 'big-one'],
     trigger: 'click'
 });
 
@@ -320,7 +320,7 @@ tool12.tooltipster({
     contentAsHTML: true,
     maxWidth: 180,
     interactive: true,
-    theme: 'tooltipster-borderless',
+    theme: ['tooltipster-borderless', 'big-one'],
     trigger: 'click'
 }); 
 
@@ -335,7 +335,7 @@ tool12.tooltipster({
     contentAsHTML: true,
     maxWidth: 180,
     interactive: true,
-    theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
+    theme: ['tooltipster-borderless', 'big-one'],
     trigger: 'click'
 });
 
@@ -378,7 +378,7 @@ tool14.tooltipster({
     contentAsHTML: true,
     maxWidth: 180,
     interactive: true,
-    theme: 'tooltipster-borderless',
+    theme: ['tooltipster-borderless', 'big-one'],
     trigger: 'click'
 }); 
 
@@ -391,7 +391,7 @@ tool14.tooltipster({
     contentAsHTML: true,
     maxWidth: 180,
     interactive: true,
-    theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
+    theme: ['tooltipster-borderless', 'big-one'],
     trigger: 'click'
 });
 
@@ -405,7 +405,7 @@ tool15.tooltipster({
     contentAsHTML: true,
     maxWidth: 180,
     interactive: true,
-    theme: 'tooltipster-borderless',
+    theme: ['tooltipster-borderless', 'big-one'],
     trigger: 'click'
 }); 
 
@@ -418,7 +418,7 @@ tool15.tooltipster({
     contentAsHTML: true,
     maxWidth: 180,
     interactive: true,
-    theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
+    theme: ['tooltipster-borderless', 'big-one'],
     trigger: 'click'
 });
 
@@ -497,7 +497,7 @@ tool19.tooltipster({
     contentAsHTML: true,
     maxWidth: 180,
     interactive: true,
-    theme: 'tooltipster-borderless',
+    theme: ['tooltipster-borderless', 'big-one'],
     trigger: 'click'
 }); 
 
@@ -510,7 +510,7 @@ tool19.tooltipster({
     contentAsHTML: true,
     maxWidth: 180,
     interactive: true,
-    theme: ['tooltipster-borderless', 'tooltipster-borderless-customized'],
+    theme: ['tooltipster-borderless', 'big-one'],
     trigger: 'click'
 });
 
@@ -757,6 +757,6 @@ tool32.tooltipster({
     contentAsHTML: true,
     maxWidth: 180,
     interactive: true,
-    theme: 'tooltipster-borderless',
+    theme: ['tooltipster-borderless', 'last-one'],
     trigger: 'click'
 }); 
