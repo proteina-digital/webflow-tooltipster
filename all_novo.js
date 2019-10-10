@@ -1594,50 +1594,50 @@ tool59.tooltipster({
 	trigger: 'click'
 });
 
-tool60.tooltipster({
-	content: `
-  <div class="tool-txt">
-  Como se pode ver, os dispositivos do Código Civil citados pela apelante <strong>afirmam exatamente o oposto do que ela defende</strong>, e dão suporte ao entendimento de que os honorários advocatícios deveriam ser incluídos nas perdas e danos. ​
-  </div>
-  `,
-	multiple: true,
-	side: 'left',
-	contentAsHTML: true,
-	maxWidth: 180,
-	interactive: true,
-	theme: 'tooltipster-borderless',
-	trigger: 'click'
-});
+// tool60.tooltipster({
+// 	content: `
+//   <div class="tool-txt">
+//   Como se pode ver, os dispositivos do Código Civil citados pela apelante <strong>afirmam exatamente o oposto do que ela defende</strong>, e dão suporte ao entendimento de que os honorários advocatícios deveriam ser incluídos nas perdas e danos. ​
+//   </div>
+//   `,
+// 	multiple: true,
+// 	side: 'left',
+// 	contentAsHTML: true,
+// 	maxWidth: 180,
+// 	interactive: true,
+// 	theme: 'tooltipster-borderless',
+// 	trigger: 'click'
+// });
 
-tool61.tooltipster({
-	content: `
-  <div class="tool-txt">
-  Como se pode ver, os dispositivos do Código Civil citados pela apelante <strong>afirmam exatamente o oposto do que ela defende</strong>, e dão suporte ao entendimento de que os honorários advocatícios deveriam ser incluídos nas perdas e danos. ​
-  </div>
-  `,
-	multiple: true,
-	side: 'left',
-	contentAsHTML: true,
-	maxWidth: 180,
-	interactive: true,
-	theme: 'tooltipster-borderless',
-	trigger: 'click'
-});
+// tool61.tooltipster({
+// 	content: `
+//   <div class="tool-txt">
+//   Como se pode ver, os dispositivos do Código Civil citados pela apelante <strong>afirmam exatamente o oposto do que ela defende</strong>, e dão suporte ao entendimento de que os honorários advocatícios deveriam ser incluídos nas perdas e danos. ​
+//   </div>
+//   `,
+// 	multiple: true,
+// 	side: 'left',
+// 	contentAsHTML: true,
+// 	maxWidth: 180,
+// 	interactive: true,
+// 	theme: 'tooltipster-borderless',
+// 	trigger: 'click'
+// });
 
-tool62.tooltipster({
-	content: `
-  <div class="tool-txt">
-  Como se pode ver, os dispositivos do Código Civil citados pela apelante <strong>afirmam exatamente o oposto do que ela defende</strong>, e dão suporte ao entendimento de que os honorários advocatícios deveriam ser incluídos nas perdas e danos. ​
-  </div>
-  `,
-	multiple: true,
-	side: 'left',
-	contentAsHTML: true,
-	maxWidth: 180,
-	interactive: true,
-	theme: 'tooltipster-borderless',
-	trigger: 'click'
-});
+// tool62.tooltipster({
+// 	content: `
+//   <div class="tool-txt">
+//   Como se pode ver, os dispositivos do Código Civil citados pela apelante <strong>afirmam exatamente o oposto do que ela defende</strong>, e dão suporte ao entendimento de que os honorários advocatícios deveriam ser incluídos nas perdas e danos. ​
+//   </div>
+//   `,
+// 	multiple: true,
+// 	side: 'left',
+// 	contentAsHTML: true,
+// 	maxWidth: 180,
+// 	interactive: true,
+// 	theme: 'tooltipster-borderless',
+// 	trigger: 'click'
+// });
 
 tool63.tooltipster({
 	content: `
